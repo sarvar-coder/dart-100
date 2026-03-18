@@ -9,3 +9,10 @@
 - C++ Program to Compute Quotient and Remainder.
   
 Six problems.
+## geometry 
+- C++ Program to Calculate the Area and Circumference of a Circle.
+- C++ Program to Calculate the Area of a Scalene Triangle.
+- C++ Program to Calculate the Area of an Equilateral Triangle.
+- C++ Program to Calculate the Area of Right Angle Triangle.
+- C++ Program to Calculate the Area and Perimeter of a Rectangle.
+- C++ Program to Calculate the Area and Perimeter of a Square.
