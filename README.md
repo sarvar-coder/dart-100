@@ -16,3 +16,8 @@ Six problems.
 - Dart Program to Calculate the Area of Right Angle Triangle.
 - Dart Program to Calculate the Area and Perimeter of a Rectangle.
 - Dart Program to Calculate the Area and Perimeter of a Square.
+
+## coreLogic
+- Dart Program to Find ASCII Value of a Character.
+- Dart Program to Find the Size of int, float, double, and char.
+- Dart Program to Swap Two Numbers.
