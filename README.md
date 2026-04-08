@@ -37,3 +37,7 @@ Six problems.
 ## Problem Solving Ideas. 
 
 16. C++ program that converts between Celsius and Fahrenheit temperatures based on user input. You can also add conversions for Kelvin.
+
+17. C++ Program to Check Whether a Number is Even or Odd.
+
+18. C++ Program to Check Whether a Number is Positive or Negative.
